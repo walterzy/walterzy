@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[https://](https://en.cppreference.com/w/)
+[https://en.cppreference.com/w/]
 
 
 <!--
